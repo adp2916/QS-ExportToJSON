@@ -1,0 +1,21 @@
+.qv-object-ExportToJSON div.qv-object-content-container {
+	overflow: auto;
+}
+.qv-object-ExportToJSON td,
+.qv-object-ExportToJSON th {
+	border-top: 0px solid #fff;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+}
+.qv-object-ExportToJSON td.numeric {
+	text-align: right;
+}
+.qv-object-ExportToJSON button {
+	width: 100%;
+}
