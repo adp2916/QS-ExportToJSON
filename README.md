@@ -7,4 +7,4 @@ Before clicking on export, make sure to reduce the number of records to export.
 
 This extension works on client side and it doesnt require any backend server. 
 
-![ExportToJSON](img/demo.gif)
+
